@@ -18,7 +18,7 @@ from aiogram.enums import ParseMode
 import re
 import databse as dtb
 import os
-from dotenv import *
+
 
 
 
