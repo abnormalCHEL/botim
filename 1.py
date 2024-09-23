@@ -22,7 +22,7 @@ from dotenv import *
 
 
 
-TOKEN = os.getenv('7501629492:AAEDjgxGKxV0DMNKu5Ms6lbYbs6FymJ4zME')
+TOKEN = os.getenv('7340945997:AAFVjA4ugiUoe2U2hrZaEHWpx_kTtiZjCsg')
 bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 
 dp = Router()
